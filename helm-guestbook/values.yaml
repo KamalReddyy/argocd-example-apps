@@ -6,7 +6,6 @@ replicaCount: 3
 
 image:
   repository: shaikmustafa/dm
-  tag: v5
   pullPolicy: IfNotPresent
 
 containerPort: 80
